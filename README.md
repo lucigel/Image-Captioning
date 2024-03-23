@@ -1,9 +1,9 @@
 # [Image-Captioning]
 
 ## Introduce
-Task: with input is photo, model predict text wich the content in photo 
+**Task**: with input is photo, model predict text wich the content in photo 
 
-Tool, model and framework: keras, InmageNet model, LSTM, Glove
+**Tool, model and framework**: keras, InmageNet model, LSTM, Glove
 
 ## Image Captioning use CNN, RNN 
 Model Architecture :
